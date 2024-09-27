@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Parshva Daftari
+I'm currently exploring AI agents, Voice Agents, Language Models, Stateful LLMs, WebRTC, Vision Transformers, RAG and the evaluation of RAG systems. Actively contributing to open-source machine learning projects.
 
-<!--
-**parshvadaftari/parshvadaftari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ML Engineer at [SoftmaxAI](https://www.softmaxai.com/)
+- 🔭 I’m currently working on **AI Agents**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wlIh1fM_eghsqfv4BuiacxcbuGGELvny/view?usp=drive_link)
+<br />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=parshvadaftari&show_icons=true&theme=dark&title_color=00fffb&text_color=fffffb&locale=en" alt="parshvadaftari" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parshvadaftari&theme=dark" alt="parshvadaftari" />
+</p>
+<br />
