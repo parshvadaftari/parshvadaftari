@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Parshva Daftari
 I'm currently exploring AI agents, Voice Agents, Language Models, Stateful LLMs, WebRTC, Vision Transformers, RAG and the evaluation of RAG systems. Actively contributing to open-source machine learning projects.
 
-- ML Engineer at [SoftmaxAI](https://www.softmaxai.com/)
+- ML Engineer
 - 🔭 I’m currently working on **AI Agents**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wlIh1fM_eghsqfv4BuiacxcbuGGELvny/view?usp=drive_link)
 <br />
